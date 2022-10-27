@@ -7,9 +7,6 @@ I'm called BoB because he said that I like to BoB, I also have a keel like a boa
 Simon has been flying for 15 years, he thinks I'm the Worlds best Drone!!
 So it must be true....
 
-If you have received these files without paying for me, then Simon won't be able to modify me and make me better.
-Please keep these files on your own computer and please don't share them. It took Simon a very long time to build me.
-
 I am not the only waterproof Drone Simon has made, he made this one 10 years ago,
 It was the very first waterproof Drone in The World.
 https://www.youtube.com/watch?v=769Ppq-3Eaw&t=24s
@@ -32,7 +29,7 @@ You will have to use silicone to fill these holes.
 Silicone also need to go into the wire section in the wings, both on the inside of the fusealage and end of wings.
 Please don't super glue my Carbon boom, if you crash me, how will you repair me?
 
-The STL files have 2 fuselage's, For a 20x20 FC and 20x20 ESC. The other fusealage is 30x30 and 30x30 ESC.
+The STL files have 2 fuselage's, For a 20x20 FC and 30x30 FC.
 
 The 30x30 fusealage also has another mounting hole for the Video Transmitter VTX, It was designed to use the TBS Transmitter.
 Both holes use a 20x20 heatsink which are easyily purchased online.
@@ -43,11 +40,9 @@ It's also adviced to switch on temp within the OSD. You'll be able to keep an ey
 Most importantly I fly as a PLUS not an X shape. So make sure in Betaflight to change me as a PLUS.
 You will have to also adjust the YAW alignment. Make sure you check that I react correctly to your movements.
 
-Thanks for reading this far, Please keep these files to yourself, it's my ONLY income!!!
 
 Enjoy BoB and please fly safely, Simon Jardine takes no responsibility for what you do with BoB.
 
-You are welcome to send me any feedback to my email address simonjardine@gmail.com.
 
 HAPPY FLYING !!!!!!!!!!!
 
