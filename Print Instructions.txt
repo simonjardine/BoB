@@ -1,0 +1,56 @@
+Printing....
+I use an Ender 3 V2, but I also have the new FLsun Super Racer which is a Delta Printer (it's really amazing)
+
+I am new to 3d Printing, so I won't be much use to you.
+However these are the setting I used with great success.
+
+I would use bright colours, Yellow, Orange, blue. 
+I used PLA PLUS. You could also use any other materials, I've also used PLA/ 20%Carbon.
+The GoPro mount must be printed in TPU slowly, (do not glue it until you have threaded the bottom on)
+Or later when you go to use your GoPro it wil be facing a different direction, please take care doing this!!
+
+I use CURA for slicing. 0.4 nozzle.
+These are my settings for my Ender 3
+
+Quality - Layer height 0.15
+        - Line Width 0.4
+
+Walls 5 (less is lighter and not as strong) (checked (outer walls before inner) (checked hide seam)
+Top and bottom layers 4
+Infill 0 
+Material 225c and bed 55c
+Speed 45mm/s 30 for inner and outer walls.
+Travel retracion on
+cooling on
+Support is need only on the main fusealage and canopy my settings for support is.
+
+Normal touching buildplate, 55 degrees support overhang.
+(my printer didn't need(everywhere) only touching buildplate) (check this)
+Lines (easy to remove)
+15% support density
+Support X/Y distance 0.7
+
+Build plate Adhesion 8mm brim.
+Surface mode is normal
+
+
+*note
+You can use Polyurethane (clear varnish with high UV)
+Sand all the parts with 120 grit and varnish the parts, this will make it much more waterproof and keep the 
+UV rays off your newly printed parts. I would persnally do this after BoB is built, becuase glue and silcone don't
+like bonding to varnish.
+
+I found with PLA + that going slowly and hotter 225C made the model very strong and much nice looking.
+
+Good luck and enjoy BoB :-)
+
+Simon
+
+
+
+
+
+
+
+
+
